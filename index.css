@@ -145,5 +145,8 @@ hr{
 .i{
     position: relative;
     top : 10px;
-    margin-bottom: 0;;
+    margin-bottom: 0;
+}
+p{
+    text-size:40px;
 }
