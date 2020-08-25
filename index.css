@@ -1,0 +1,149 @@
+body{
+    margin : 0px;
+    
+    text-align : center;
+    font-family: 'Merriweather', serif;
+    background-color:#dbe3e5;
+    
+}
+h1{
+    padding : 50px auto 0 auto;
+    margin:0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color:#056676; 
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size : 2.5rem;
+    color:#056676;
+}   
+.a-pro{
+    font-weight: normal;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size : 2,5rem;
+}
+h3, a{
+    color:#11999e;
+}
+.my-pro{
+    border-radius: 100%;
+    position: absolute;
+
+    height: 200px; 
+    
+    
+    left:0;
+    top : 0;
+
+}
+.top_container {
+   
+    margin : 0px;
+    background-color:#dbe3e5;
+    position: relative;
+    padding-top : 100px;
+    line-height: 1.8;
+    justify-content: center;
+   
+    
+}
+
+.middle_container{
+    margin-bottom: 200px;
+    position: relative;
+
+} 
+   
+
+.bottom-container{
+    background-color:#11999e;
+    margin-top: 100px;
+    padding-top: 20px;
+   
+}
+.footer-link{
+    color:#056676;
+    
+    margin:20px;
+    text-decoration: none;
+    
+    
+}
+   
+.bottom-cloud{
+    position : absolute;
+    left : 250px;
+}
+.top-cloud{
+    position: absolute;
+    right : 250px;
+    top : 20px;
+}
+.mountains{
+    position: relative;
+    top: 8px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+   
+}
+.skill-row{
+    line-height : 2;
+  
+}
+.skills{
+    
+}
+.python-image{
+    width: 25%;
+    float:left;
+    margin-right: 20%;
+    
+}
+.guitar-image{
+    width: 25%;
+    float:right;
+    margin-left: 20%;
+
+}
+hr{
+
+  width: 8%;
+  border : 5px dotted;
+  color:gray;
+  border-top-style: none;
+  margin: 80px auto 80px auto;
+
+}
+.contact-me > a{
+    background-color: #11999e;
+    background-image: linear-gradient(to bottom, #11999e, #056676);
+    color : white;
+    padding: 15px 10px 15px 10px;
+    font-size: 25px;
+    position: relative;
+    top : 40px;
+    bottom: 40px;
+    border-radius: 18px;
+    text-decoration: none;
+    
+}
+.contact-me{
+    margin: auto auto 70px auto;
+}
+.bottom-container > p{
+    color:#eaf6f6
+}
+.i{
+    position: relative;
+    top : 10px;
+    margin-bottom: 0;;
+}
